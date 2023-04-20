@@ -1,0 +1,5 @@
+{
+  "data_file_train": "data/students_loan_data_train.csv",
+  "data_file_validation": "data/students_loan_data_validation.csv",
+  "data_file_test": "data/students_loan_data_test.csv"
+}
